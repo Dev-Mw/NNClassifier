@@ -7,7 +7,7 @@ Como partes importantes del desarollo del modelos para pruebas de clasificacion,
 
 |Estado|Iniciativa|Historia de Usuario|Responsable|Brach|
 |-------|-------|-------|-------|----|
-| [ ] Done | Clasificación de Datos | Implementación del dataset de datos aleatorios para pruebas | Ruben Dario Sotelo | feature/load-dataset |
+| [x] Done | Clasificación de Datos | Implementación del dataset de datos aleatorios para pruebas | Ruben Dario Sotelo | feature/load-dataset |
 | [ ] Done | Clasificación de Datos | Creación del primer modelo de clasificación usando una (1) capa oculta con cinco (5) neuronas | Ruben Dario Sotelo | feature/model-1 |
 | [ ] Done | Clasificación de Datos | Creación del segundo modelo de clasificación usando una (1) capa oculta con 10 neuronas | Wilmer Armando Siza Mora | feature/model-2 |
 | [ ] Done | Clasificación de Datos | Creación del tercer modelo de clasificación usando dos (2) capas ocultas con 20 neuronas cada una | Alejandro Gomez Patiño | feature/model-3 |
