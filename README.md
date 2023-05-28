@@ -11,4 +11,4 @@ Como partes importantes del desarollo del modelos para pruebas de clasificacion,
 | [x] Done | Clasificación de Datos | Creación del primer modelo de clasificación usando una (1) capa oculta con cinco (5) neuronas | Ruben Dario Sotelo | feature/model-1 |
 | [x] Done | Clasificación de Datos | Creación del segundo modelo de clasificación usando una (1) capa oculta con 10 neuronas | Wilmer Armando Siza Mora | feature/model-2 |
 | [x] Done | Clasificación de Datos | Creación del tercer modelo de clasificación usando dos (2) capas ocultas con 20 neuronas cada una | Alejandro Gomez Patiño | feature/model-3 |
-| [ ] Done | Clasificación de Datos | Creación del cuarto modelo de clasificación usando tres (3) capas ocultas con 50 neuronas cada una | Jhon Mario Galarza Lopez | feature/model-4 |
+| [x] Done | Clasificación de Datos | Creación del cuarto modelo de clasificación usando tres (3) capas ocultas con 50 neuronas cada una | Jhon Mario Galarza Lopez | feature/model-4 |
